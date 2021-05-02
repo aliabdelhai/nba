@@ -1,6 +1,6 @@
 # NBA 🪐
 
-### A Fullstack Nasa info and images App.
+### A Fullstack App.
 
 The user will be able to type in a team name in the input, and when they hit the Get Roster button, they'll get some information and images about players from that team.
 
@@ -45,7 +45,7 @@ npm start
 
 ### Screenshots
 
-## <p align="center"><img src="https://res.cloudinary.com/dnngdbnuq/image/upload/v1619951512/Screen_Shot_2021-05-02_at_1.31.15_PM_soxv2n.png" height="550" width="300"> </p>
-## <p align="center"><img src="https://res.cloudinary.com/dnngdbnuq/image/upload/v1619951621/Screen_Shot_2021-05-02_at_1.33.18_PM_ejl7e8.png" height="550"  width="300"> </p>
-## <p align="center"><img src="https://res.cloudinary.com/dnngdbnuq/image/upload/v1619951988/Screen_Shot_2021-05-02_at_1.39.26_PM_wfxvij.png" height="550"  width="300"> </p>
-## <p align="center"><img src="https://res.cloudinary.com/dnngdbnuq/image/upload/v1619951501/Screen_Shot_2021-05-02_at_1.16.20_PM_bg47ms.png" height="550"  width="300"> </p>
+## <p align="center"><img src="https://res.cloudinary.com/dnngdbnuq/image/upload/v1619951512/Screen_Shot_2021-05-02_at_1.31.15_PM_soxv2n.png" height="350" width="500"> </p>
+## <p align="center"><img src="https://res.cloudinary.com/dnngdbnuq/image/upload/v1619951621/Screen_Shot_2021-05-02_at_1.33.18_PM_ejl7e8.png" height="350"  width="500"> </p>
+## <p align="center"><img src="https://res.cloudinary.com/dnngdbnuq/image/upload/v1619951988/Screen_Shot_2021-05-02_at_1.39.26_PM_wfxvij.png" height="350"  width="500"> </p>
+## <p align="center"><img src="https://res.cloudinary.com/dnngdbnuq/image/upload/v1619951501/Screen_Shot_2021-05-02_at_1.16.20_PM_bg47ms.png" height="350"  width="500"> </p>
