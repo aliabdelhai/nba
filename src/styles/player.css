@@ -1,7 +1,7 @@
 
 .player{
     box-shadow: 1px 1px 3px;
-    margin: 20px;
+    margin: 30px;
     border-radius: 5px;
     padding: 10px;
     display: grid;
@@ -9,6 +9,16 @@
     position: relative;
  
 }
+
+.dreamTeam{
+    font-size: 25px;
+     font-weight: bold;
+     color: rgb(24, 56, 8);
+     display: grid;
+     justify-content: center;
+     align-content: center;
+     margin-top: 20px;
+ }
 
 .playerName {
     font-size: 20px;

@@ -28,6 +28,7 @@ function DreamTeam(props) {
 
   return (
     <>
+    <div className="dreamTeam">DREAM TEAM</div>
       <Grid container direction="row" justify="space-evenly" spacing={3}>
         {
           players.map(p => (

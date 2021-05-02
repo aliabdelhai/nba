@@ -56,7 +56,7 @@ function Home(props) {
         <div className={classes.root} >
             <center>
                 <TextField
-                    label="Player Name"
+                    label="team name"
                     id="outlined-size-small"
                     defaultValue=""
                     variant="outlined"
@@ -65,7 +65,7 @@ function Home(props) {
                     onChange={handleInput}
                 />
                 <Button className={classes.btn} variant="contained" color="primary" onClick={search}>
-                    SEARCH
+                    GET ROSTER
                 </Button>
             </center>
 
